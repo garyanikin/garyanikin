@@ -4,9 +4,7 @@
 
 🌱 currently learning creative coding
 
-💞️ looking to collaborate on music festivals
-
-📫 How to reach me [vk.com/garyanikin](https://vk.com/garyanikin), [t.me/barry_yung](https://t.me/barry_yung)
+📫 How to reach me [vk.com/garyanikin](https://vk.com/garyanikin), [t.me/gary_anikin](https://t.me/gary_anikin)
 
 <!---
 garyanikin/garyanikin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
