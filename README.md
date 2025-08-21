@@ -4,7 +4,7 @@
 
 🌱 currently learning creative coding
 
-📫 How to reach me [vk.com/garyanikin](https://vk.com/garyanikin), [t.me/gary_anikin](https://t.me/gary_anikin)
+📫 How to reach me [t.me/gary_anikin](https://t.me/gary_anikin)
 
 <!---
 garyanikin/garyanikin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
